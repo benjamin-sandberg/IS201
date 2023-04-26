@@ -1,0 +1,49 @@
+body {
+    color: darkgreen;
+    font-size: 18px;
+
+    background-image: url("myBackground.jpg");
+    background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+h2 {
+    text-align: center;
+    font-weight: bold;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+   
+  }
+  
+  h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkblue;
+    font-size: 18px;
+  }
+
+  #title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    text-align: center;
+  }
+
+  #info {
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  #start {
+    font-weight: bold;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  #ending {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  #buttons {
+    position: fixed;
+    right: 0;
+  }
